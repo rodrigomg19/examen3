@@ -1,5 +1,4 @@
 FROM       python:3
-LABEL      maintainer="Sawood Alam <@ibnesayeed>"
 
 WORKDIR    /app
 COPY       requirements.txt /app/
